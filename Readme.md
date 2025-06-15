@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🚀 Proyecto React con Vite
 
 ![Vite](https://img.shields.io/badge/Vite-Development-blueviolet?logo=vite)
@@ -9,7 +7,6 @@
 
 Repositorio creado con el objetivo de aprender y practicar React usando Vite, una herramienta de desarrollo moderno y rápido.
 
----
 
 ## 📦 Tecnologías utilizadas
 
